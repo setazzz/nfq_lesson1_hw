@@ -1,3 +1,5 @@
 text.txt
 
 Čia yra failas git commit'ams ir konfliktams.
+
+ši eilutė nenori konfliktuoti
