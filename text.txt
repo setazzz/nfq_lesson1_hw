@@ -2,10 +2,10 @@ text.txt
 
 Čia yra failas git commit'ams ir konfliktams.
 
-ši eilutė nenori konfliktuoti
-
 šita eilutė nenori draugauti su kitomis
 
-// Nedraugiškas eilutes teko atskirti šiuo komentaru
+ši eilutė nenori konfliktuoti
 
 o ši eilutė nedraugiška ir nori konfliktuoti
+
+Eilutė, nenorinti konfliktuoti, įsiterpė tarp kitų dviejų ir nusistovėjo taika
