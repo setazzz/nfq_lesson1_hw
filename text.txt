@@ -5,3 +5,7 @@ text.txt
 ši eilutė nenori konfliktuoti
 
 šita eilutė nenori draugauti su kitomis
+
+// Nedraugiškas eilutes teko atskirti šiuo komentaru
+
+o ši eilutė nedraugiška ir nori konfliktuoti
